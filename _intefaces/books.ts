@@ -1,4 +1,4 @@
-export type Books = {
+export type Book = {
     author: string;
     country?: string;
     imageLink?: string;
